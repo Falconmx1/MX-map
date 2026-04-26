@@ -24,10 +24,10 @@ cd MX-map
 pip install -r requirements.txt
 
 
-## 🎯 Uso básico
+ 🎯 Uso básico
 python mxmap.py -t 192.168.1.1 -p 1-1000
 
-## 🔥 Banner
+ 🔥 Banner
     ╔═══════════════════════════════════╗
     ║  ███╗   ███╗██╗  ██╗              ║
     ║  ████╗ ████║╚██╗██╔╝              ║
