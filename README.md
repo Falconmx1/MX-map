@@ -22,3 +22,18 @@
 git clone https://github.com/Falconmx1/MX-map.git
 cd MX-map
 pip install -r requirements.txt
+
+
+## 🎯 Uso básico
+python mxmap.py -t 192.168.1.1 -p 1-1000
+
+## 🔥 Banner
+    ╔═══════════════════════════════════╗
+    ║  ███╗   ███╗██╗  ██╗              ║
+    ║  ████╗ ████║╚██╗██╔╝              ║
+    ║  ██╔████╔██║ ╚███╔╝               ║
+    ║  ██║╚██╔╝██║ ██╔██╗               ║
+    ║  ██║ ╚═╝ ██║██╔╝ ██╗              ║
+    ║  ╚═╝     ╚═╝╚═╝  ╚═╝              ║
+    ║      MX-map v1.0 - by @Falconmx1  ║
+    ╚═══════════════════════════════════╝
